@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(100, 145, 100);
+  /*  font-family: Arial, Helvetica, sans-serif; */
+}
+
+.container{
+
+    border: 2px solid rgb(1, 77, 60);
+    width: 50%;
+    text-align: center;
+    margin: 20px auto; 
+    text-shadow: green;
+  }
+  /*  background-image: url("https://wallpaperaccess.com/full/238149.jpg"); */
+
+
+h1{
+   text-align: center;
+   
